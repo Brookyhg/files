@@ -1,0 +1,21 @@
+# Racknerd-VPS
+fd85:6127:940c:286f:8499:93da:0982:1368	rackz6.yhg
+192.168.192.71	rackz4.yhg
+
+# 家庭设备
+fd85:6127:940c:286f:8499:9323:2a4c:f3dc		r2sz6.yhg
+192.168.192.254	r2sz4.yhg
+fd85:6127:940c:286f:8499:9333:44b8:3d42	i5winz6.yhg
+192.168.192.101	i5winz4.yhg
+fd85:6127:940c:286f:8499:93b6:77fc:4b80	macbookz6.yhg
+192.168.192.102	macnookz4.yhg
+fd85:6127:940c:286f:8499:933b:5888:b88a	nasz6.yhg
+192.168.192.250	nasz4.yhg
+
+# 万家
+fd85:6127:940c:286f:8499:9392:58e4:6f25		wjwinz6.yhg
+192.168.192.200	wjswinz4.yhg
+fd85:6127:940c:286f:8499:9363:e84d:9f58	wjarchz6.yhg
+192.168.192.201	wjarchz4.yhg
+fd85:6127:940c:286f:8499:9331:7864:307b	qingshannasz6.yhg
+192.168.192.252	qingshannasz4.yhg
