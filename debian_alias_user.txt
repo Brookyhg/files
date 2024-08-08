@@ -1,0 +1,43 @@
+# apt命令
+alias suoyin='sudo apt update'
+alias shengji='sudo apt upgrade'
+alias fullshengji='sudo apt full-upgrade'
+alias distshengjidist='sudo apt dist-upgrade'
+alias zhao='sudo apt search'
+alias anzhuang='sudo apt install'
+alias kanrj='sudo apt show'
+alias shanchu='sudo apt purge'
+alias qingcan='sudo apt autoremove'
+alias qingli='sudo apt clean && sudo apt autoclean'
+
+# systemd
+alias yunxu='sudo systemctl enable'
+alias jinzhi='sudo systemctl disable'
+alias kaiqi='sudo systemctl start'
+alias tingzhi='sudo systemctl stop'
+alias zhuangtai='sudo systemctl status'
+
+# 其他
+alias c='clear'
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+alias shuaxinbash='source ~/.bashrc'
+alias ll='ls -FlAh --color=auto'
+#alias lianwang='sudo ifconfig enp3s0 up'
+#alias duanwang='sudo ifconfig enp3s0 down'
+
+# docker
+#alias kaidocker='sudo systemctl start docker'
+#alias guandocker='sudo systemctl stop docker'
+
+# nala命令
+alias nalakuai='sudo nala fetch'
+alias nsuoyin='sudo nala update'
+alias nshengji='sudo nala upgrade'
+alias nzhao='nala search'
+alias nanzhuang='sudo nala install'
+alias nkanrj='nala show'
+alias nshanchu='sudo nala purge'
+alias nqingcan='sudo nala autopurge'
+alias nqingli='sudo nala clean'
